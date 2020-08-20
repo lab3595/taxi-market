@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author  : XerCis
+# @Author  : Peibo Duan
 # @Time    : 2020/8/20 18:29
-# @Function:
+# @Function: Entrance of the program
 # @File    : main.py
